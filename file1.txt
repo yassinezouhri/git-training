@@ -1,2 +1,3 @@
 hello
 hello
+i cloned this repo , and i'm trying to learn how to contribute via pulling requests 
